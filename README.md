@@ -23,3 +23,6 @@ Run the application from Spring boot
    $ mvn spring-boot:run
 Run the application from Spring boot in eclipse
 
+<b>Pagination URL </b> <br/>
+http://localhost:8080/listPageable?page=0&size=3&sort=name
+
